@@ -1,4 +1,4 @@
-**Hello, there.** I’m a Venezuelan-American immigrant based in Jackson Hole, Wyoming, right in the heart of Grand Teton National Park, on Shoshone-Bannock, Eastern Shoshone, and Cheyenne land. I live here with my [spouse][kd] and our [three rambunctious kittens][pb], and we enjoy traveling and visiting national parks, historic sites, landmarks, and museums across the country.
+**Hello, there.** I’m a Venezuelan-American immigrant based in Jackson Hole, Wyoming, right in the heart of Grand Teton National Park, on Shoshone-Bannock, Eastern Shoshone, and Cheyenne land. I live here with my [spouse][kd] and our [two rambunctious kittens][pb], and we enjoy traveling and visiting national parks, historic sites, landmarks, and museums across the country.
 
 [kd]: https://www.instagram.com/kdbirmingham/
 [pb]: https://www.instagram.com/thepastrybrothers/
