@@ -1,9 +1,8 @@
-**Hello, there.** I’m a Venezuelan-American immigrant based in Jackson Hole, Wyoming, right in the heart of Grand Teton National Park, on Shoshone-Bannock, Eastern Shoshone, and Cheyenne land. I live here with my [spouse][kd] and our [two rambunctious kittens][pb], and we enjoy traveling and visiting national parks, historic sites, landmarks, and museums across the country.
+**Hello, there.** I’m a Venezuelan-American immigrant based in Jackson Hole, Wyoming, right in the heart of Grand Teton National Park, on Shoshone-Bannock, Eastern Shoshone, and Cheyenne land. I live here with my spouse and our [two rambunctious kittens][pb], and we enjoy traveling and visiting national parks, historic sites, landmarks, and museums across the country.
 
-[kd]: https://www.instagram.com/kdbirmingham/
-[pb]: https://www.instagram.com/thepastrybrothers/
+[pb]: https://bsky.app/profile/thepastrybrothers.com
 
-I’ve been building websites for over 20 years, and currently I’m an engineering manager at [Stitch Fix][sf], where I've led multiple engineering and cross-functional teams, most recently the Checkout & Wardrobe team.
+I’ve been building websites for over 20 years, and currently I’m an engineering manager at [Stitch Fix][sf], where I've led multiple engineering and cross-functional teams, most recently the Omniclient team.
 
 [sf]: https://www.stitchfix.com/
 
@@ -19,7 +18,7 @@ Before that, I worked as a front-end engineer at [Piictu][piictu] and [DailyMe][
 [piictu]: https://www.crunchbase.com/organization/piictu
 [dm]: https://www.crunchbase.com/organization/dailyme
 
-Elsewhere on the Internet, I publish my photography at [_All-Encompassing Trip_][aet], and write about triathlon training & racing at [_Given to Tri_][gtt].
+Elsewhere on the Internet, I publish my photography at [_All-Encompassing&nbsp;Trip_][aet], and write about triathlon training & racing at [_Given&nbsp:to&nbsp:Tri_][gtt].
 
 [aet]: https://www.allencompassingtrip.com
 [gtt]: https://www.giventotri.com
