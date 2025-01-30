@@ -18,7 +18,7 @@ Before that, I worked as a front-end engineer at [Piictu][piictu] and [DailyMe][
 [piictu]: https://www.crunchbase.com/organization/piictu
 [dm]: https://www.crunchbase.com/organization/dailyme
 
-Elsewhere on the Internet, I publish my photography at [_All-Encompassing&nbsp;Trip_][aet], and write about triathlon training & racing at [_Given&nbsp:to&nbsp:Tri_][gtt].
+Elsewhere on the Internet, I publish my photography at [_All-Encompassing&nbsp;Trip_][aet], and write about triathlon training & racing at [_Given&nbsp;to&nbsp;Tri_][gtt].
 
 [aet]: https://www.allencompassingtrip.com
 [gtt]: https://www.giventotri.com
