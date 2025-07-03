@@ -1,4 +1,4 @@
-**Hello, there.** I’m a Venezuelan-American immigrant based in Jackson Hole, Wyoming, right in the heart of Grand Teton National Park, on Shoshone-Bannock, Eastern Shoshone, and Cheyenne land. I live here with my spouse and our [two rambunctious kittens][pb], and we enjoy traveling and visiting national parks, historic sites, landmarks, and museums across the country.
+**Hello, there.** I’m a web developer based in Jackson Hole, Wyoming, right in the heart of Grand Teton National Park, on Shoshone-Bannock, Eastern Shoshone, and Cheyenne land. I live here with my spouse and our [two rambunctious kittens][pb], and we enjoy traveling and visiting national parks, historic sites, landmarks, and museums across the country.
 
 [pb]: https://bsky.app/profile/thepastrybrothers.com
 
@@ -13,7 +13,7 @@ Previously, I was a senior engineering manager at [Vox Media][vm], where I led s
 [tv]: https://www.theverge.com/
 [v50]: https://www.theverge.com/a/the-verge-50/
 
-Before that, I worked as a front-end engineer at [Piictu][piictu] and [DailyMe][dm], and as an independent web developer for over a decade, with a brief, strange stint in the Venezuelan oil industry during that time.
+Before that, I worked as a front-end engineer at [Piictu][piictu] and [DailyMe][dm], and as an independent web developer for over a decade.
 
 [piictu]: https://www.crunchbase.com/organization/piictu
 [dm]: https://www.crunchbase.com/organization/dailyme
